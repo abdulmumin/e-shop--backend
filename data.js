@@ -15,7 +15,7 @@ const data = {
         },
     ],
     products : [{
-        _id: 1,
+       
         name: 'Nike',
         category: 'shirts',
         image: './productImages/p1.jpg',
@@ -27,7 +27,7 @@ const data = {
         description: 'High Quality Slim Shirts'
     },
     {
-        _id: 2,
+        
         name: 'Tracksuit',
         category: 'shirts',
         image: './productImages/p2.jpg',
@@ -39,7 +39,6 @@ const data = {
         description: 'High Quality Slim Shirts'
     },
     {
-        _id: 3,
         name: 'HighTops',
         category: 'shirts',
         image: './productImages/p3.jpg',
@@ -51,7 +50,6 @@ const data = {
         description: 'High Quality Slim Shirts'
     },
     {
-        _id: 4,
         name: 'Versace Hoodie',
         category: 'shirts',
         image: './productImages/p4.jpg',
@@ -63,7 +61,6 @@ const data = {
         description: 'High Quality Slim Shirts'
     },
     {
-        _id: 5,
         name: 'Long Sleeve',
         category: 'shirts',
         image: './productImages/p5.jpg',
@@ -75,7 +72,6 @@ const data = {
         description: 'High Quality Slim Shirts'
     },
     {
-        _id: 6,
         name: 'Sweat Pants',
         category: 'shirts',
         image: './productImages/p6.jpg',
@@ -87,7 +83,6 @@ const data = {
         description: 'High Quality Slim Shirts'
     },
     {
-        _id: 7,
         name: 'Versace Shirt',
         category: 'shirts',
         image: './productImages/p7.jpg',
@@ -99,7 +94,6 @@ const data = {
         description: 'High Quality Slim Shirts'
     },
     {
-        _id: 8,
         name: 'Zara Top',
         category: 'shirts',
         image: './productImages/p8.jpg',
@@ -111,7 +105,6 @@ const data = {
         description: 'High Quality Slim Shirts'
     },
     {
-        _id: 9,
         name: 'Jump suit',
         category: 'women',
         image: './productImages/p9.jpg',
@@ -123,7 +116,6 @@ const data = {
         description: 'High Quality Slim Shirts'
     },
     {
-        _id: 10,
         name: 'Women Jacket',
         category: 'shirts',
         image: './productImages/p10.jpg',
@@ -135,7 +127,6 @@ const data = {
         description: 'High Quality Slim Shirts'
     },
     {
-        _id: 11,
         name: 'Gucci Outfit',
         category: 'shirts',
         image: './productImages/11a.png',
@@ -147,7 +138,6 @@ const data = {
         description: 'High Quality Slim Shirts'
     },
     {
-        _id: 12,
         name: 'Men shirt',
         category: 'shirts',
         image: './productImages/p12.jpg',
