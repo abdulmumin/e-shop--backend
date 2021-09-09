@@ -3,8 +3,8 @@ import mongoose from'mongoose';
 import dotenv from 'dotenv';
 import cors from 'cors';
 // import orderRouter from './routes/orderRouter.js';
-import productRouter from './routes/ProductRouter.js';
-import userRouter from './routes/userRouter.js'
+import productRouter from './routers/productRouter.js';
+import userRouter from './routers/userRouter.js'
 
 dotenv.config()
 
