@@ -13,7 +13,7 @@ app.use(express.json());
 app.use(cors());
 app.use(express.urlencoded({extended: true}))
 
-mongoose.connect(process.env.MONGODB-URL || 'mongodb://localhost/e-commerce', 
+mongoose.connect(process.env.MONGODB_URI, 
 {
     useNewUrlParser: true,
     useUnifiedTopology: true,
